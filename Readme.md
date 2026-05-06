@@ -1,6 +1,2 @@
-# ET0735 Lab1 - Intro to Git and GitHub
-<img src="picture.png">
-
-
-
+\# ET0735 - Lab 1 (Introduction to Git and GitHub)
 
